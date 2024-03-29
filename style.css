@@ -44,7 +44,8 @@
 	padding: 30px;
 	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 	border-radius: 5%;
-	margin: 0;
+	margin-top: 10px;
+
 }
 .score {
 	position: fixed;
