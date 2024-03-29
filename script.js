@@ -76,9 +76,10 @@ function play(){
         document.addEventListener('click', (e) => {
                 img.src = 'images/pesawat.png';
                 bird_dy = -7.6;
+            
         });
 
-        document.addEventListener('keydown', (e) => {
+        document.addEventListener('click', (e) => {
                 img.src = 'images/pesawat.png';
                 bird_dy = -7.6;
         });
