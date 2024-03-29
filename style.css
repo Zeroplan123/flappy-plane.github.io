@@ -66,7 +66,7 @@
 
 
 
-@media only screen and (orientation: landscape){
+@media only screen and (orientation: landscape) and (max-widht : 760px){
 	.message{
 		font-size: 1.5em;
 	}
