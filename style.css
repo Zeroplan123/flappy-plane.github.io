@@ -66,7 +66,7 @@
 
 
 
-@media only screen and (orientation: landscape){
+@media only screen and (max-widht: 700px){
 	.message{
 		font-size: 1.5em;
 	}
@@ -88,13 +88,13 @@
 	}
 
 	.bird{
-		width: 120px;
+		width: 150px;
 		left: 20vw;
 	}
 
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-widht: 800px) {
     .bird {
 		width: 200px;
 		position: fixed;
