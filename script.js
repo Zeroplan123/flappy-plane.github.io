@@ -99,7 +99,7 @@ function play(){
 
     let pipe_seperation = 0;
 
-    let pipe_gap = 30;
+    let pipe_gap = 40;
 
     function create_pipe(){
         if(game_state != 'Play') return;
