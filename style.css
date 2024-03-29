@@ -66,31 +66,29 @@
 
 
 
-@media only screen and (orientation: landscape) and (max-widht : 760px){
-	.message{
-		font-size: 1.5em;
-	}
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+    .message{
+        font-size: 1.5em;
+    }
 
-	.messageStyle{
-		width: 60%;
-		padding-top: 10px;
-		padding-bottom: 10px;
-		padding-left: 0;
-		padding-right: 0;
-	}
+    .messageStyle{
+        width: 60%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0;
+        padding-right: 0;
+    }
 
-	.score{
-		font-size: 2rem;
-	}
+    .score{
+        font-size: 2rem;
+    }
 
-	.pipe_sprite{
-		width: 10vw;
-	}
+    .pipe_sprite{
+        width: 10vw;
+    }
 
-	.bird{
-		width: 150px;
-		left: 20vw;
-	}
-
+    .bird{
+        width: 150px;
+        left: 20vw;
+    }
 }
-
